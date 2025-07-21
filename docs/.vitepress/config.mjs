@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Pairfy - Marketplace",
+  base: '/docs/',
   description: "Buy and sell products on the Cardano blockchain",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
