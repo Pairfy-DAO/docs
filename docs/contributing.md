@@ -10,10 +10,10 @@ This guide outlines how to contribute, how decisions are made, and what to expec
 
 Before contributing:
 
-- Please read and agree to our [Code of Conduct](CODE_OF_CONDUCT.md).
+- Please read and agree to our CODE_OF_CONDUCT.md.
 - Ensure your proposed change aligns with the DAO's mission and roadmap.
 - For significant changes, open a GitHub Discussion or community proposal before submitting a PR.
-- Respect our [license](LICENSE) and community rules.
+- Respect our LICENSE and community rules.
 
 ---
 
