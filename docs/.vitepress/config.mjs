@@ -17,9 +17,9 @@ export default defineConfig({
         text: 'Examples',
         items: [
           { text: 'Introduction', link: '/introduction' },
+          { text: 'DAO', link: '/DAO' },
           { text: 'Architecture', link: '/architecture' },
           { text: 'CONTRIBUTING', link: '/contributing' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
         ]
       }
     ],
