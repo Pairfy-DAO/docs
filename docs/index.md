@@ -14,9 +14,9 @@ hero:
 features:
   - title: 🔥 Open Source - Apache 2.0
     details: Project funded by the Catalyst program with open-source license.
-  - title: 🤝 Community-governed 
+  - title: 🤝 Community-governed (DAO)
     details: Democratic constitutional model with decentralized participation.
   - title: 🏦 Native asset payments 
-    details: The community can use ADA, stablecoins, and any native asset on the Cardano network as a form of payment.
+    details: The community can use ADA, stablecoins, and any native asset on the Cardano/Midnight network as a form of payment.
 ---
 
