@@ -45,3 +45,16 @@ Token distribution will take place annually from January 1, 2026 to January 1, 2
 | 2030 | 33,333,333.33        | 16,666,666.67         | 25,000,000        | 25,000,000      | 50,000,000   | 16,666,666.67        | 166,666,666.7    |
 | 2031 | 33,333,333.33        | 16,666,666.67         | 25,000,000        | 25,000,000      | 50,000,000   | 16,666,666.67        | 166,666,666.7    |
 | **Totales**         | **200,000,000**      | **100,000,000**       | **150,000,000**   | **150,000,000** | **300,000,000** | **100,000,000**     | **1,000,000,000** |
+
+
+## Roles
+
+[Become a Seller](https://seller.pairfy.io) 
+
+[Become a Mediator](https://discord.gg/qEdn9m3VUJ)
+
+[Become a Administrative](https://discord.gg/qEdn9m3VUJ) 
+
+[Become a Developer](https://discord.gg/qEdn9m3VUJ) 
+
+[Become a Mod](https://discord.gg/qEdn9m3VUJ) 

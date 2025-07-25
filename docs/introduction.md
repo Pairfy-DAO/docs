@@ -13,6 +13,8 @@ In addition, the implementation of other innovative and deterministic trading lo
 Pairfy also leverages the collective intelligence of its DAO members to conduct market and product research that benefits the Cardano community.
 These features empower any community member to become a seller and launch their own store.
 
+[Pairfy's Website](https://pairfy.io)
+
 ## Differential factors
 
 - Community-governed with chain vote – DAO constitutional model.
